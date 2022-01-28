@@ -1,0 +1,20 @@
+.c1{
+    width: 70%;
+}
+.head{
+    text-align: center;
+    background: rgba(34, 165, 226, 0.431);
+    margin-top: 20px;
+}
+.secondary{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.first{
+    color: rgb(166, 101, 219);
+}
+.table-head{
+    color: rgba(40, 77, 42, 0.692);
+    background: rgba(131, 118, 118, 0.438);
+    margin-top:20px;
+    text-align: center;
+}
